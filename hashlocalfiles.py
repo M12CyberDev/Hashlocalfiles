@@ -7,11 +7,6 @@ from os import walk
 from datetime import datetime
 
 
-"""
-Cyber Andy was here 
-"""
-
-
 #current_path = os.getcwd()
 path = 'path'
 
